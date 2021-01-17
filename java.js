@@ -28,4 +28,4 @@ function roll() {
                 = (player1 + " WINS!"); 
         } 
     }, 2500); 
-} 
+}
